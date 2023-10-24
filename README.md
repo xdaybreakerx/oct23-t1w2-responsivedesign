@@ -28,3 +28,5 @@ Set up a new project
 Or 
 
 [Check out this cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) ~~~
+
+[Reference for Media Queries and device sizes](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
